@@ -1,6 +1,6 @@
 # https://docs.pyhton.org/3.10/library/datatime.html
 
-from datetime import datetime, timedelta
+from datetime import datetime
 
 data = datetime(2019, 4, 20, 10, 23, 20)
 
